@@ -57,7 +57,7 @@ function Index() {
     <div className="min-h-screen">
       <header className="sticky top-0 z-50 border-b border-border/70 bg-background/80 backdrop-blur-xl">
         <div className="mx-auto flex max-w-5xl items-center justify-between px-5 py-3">
-          <img src={wordmark.url} alt="Goat SMP" className="h-6 w-auto sm:h-7" />
+          <img src={wordmark} alt="Goat SMP" className="h-6 w-auto sm:h-7" />
           <a
             href={DISCORD_URL}
             target="_blank"
@@ -77,7 +77,7 @@ function Index() {
             Survival Multiplayer · Fair play only
           </span>
           <img
-            src={wordmark.url}
+            src={wordmark}
             alt="Goat SMP logo"
             className="mt-8 w-full max-w-lg"
           />
