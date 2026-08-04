@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 import { Check, Copy } from "lucide-react";
-import wordmark from "@/assets/goat-smp-wordmark.png.asset.json";
+import wordmark from "@/assets/goat-smp-wordmark.png";
 
 const SERVER_IP = "playgoatsmp.mcsh.io";
 const DISCORD_URL = "https://discord.gg/RmZYwptrAF";
