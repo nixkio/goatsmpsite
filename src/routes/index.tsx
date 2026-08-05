@@ -30,12 +30,12 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Join Goat SMP, a fair-play Minecraft survival multiplayer server. Get the server IP, read the rules, and hop in the Discord.",
+          "Join Goat SMP, a fair-play Minecraft survival multiplayer server. Get the server IP, read the rules, and whitelist in the Discord.",
       },
       { property: "og:title", content: "Goat SMP — Minecraft SMP Server" },
       {
         property: "og:description",
-        content: "Server IP, rules and Discord for Goat SMP, a fair-play Minecraft survival server.",
+        content: "Server IP, rules and Discord for Goat SMP, a fair-play whitelist only Minecraft survival server.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
